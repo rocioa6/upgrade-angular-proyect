@@ -1,0 +1,128 @@
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap");
+section {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  gap: 40px;
+  text-align: center;
+  min-height: 80vh;
+  font-family: "Libre Baskerville", serif;
+
+  h1 {
+    font-size: 2.7em;
+    margin: 30px 0px 10px;
+    animation: fadein 5s;
+    -moz-animation: fadein 5s;
+    -webkit-animation: fadein 5s;
+    -o-animation: fadein 5s;
+  }
+  .container-text {
+    height: 250px;
+    width: 700px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-bottom: 20px;
+
+    p {
+      font-size: 1.2em;
+      margin-top: 20px;
+      animation: fadein 2s;
+      -moz-animation: fadein 2s;
+      -webkit-animation: fadein 2s;
+      -o-animation: fadein 2s;
+    }
+  }
+  .container-links {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 25px;
+    gap: 30px;
+    .section-link {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      height: 150px;
+      width: 300px;
+      border-radius: 20px;
+      transition: all 0.3s;
+      &:hover {
+        transform: scale(1.1);
+        background-blend-mode: lighten;
+      }
+      &--chara {
+        background: rgb(0 0 0 / 0.4) url(../../../assets/ff-art2.jpg);
+        background-size: cover;
+        background-blend-mode: darken;
+        background-position: center;
+        animation: fadein 3s;
+        -moz-animation: fadein 3s;
+        -webkit-animation: fadein 3s;
+        -o-animation: fadein 3s;
+      }
+      &--games {
+        background: rgb(0 0 0 / 0.4) url(../../../assets/ff-art3.jpg);
+        background-blend-mode: darken;
+        background-size: cover;
+        animation: fadein 4s;
+        -moz-animation: fadein 4s;
+        -webkit-animation: fadein 4s;
+        -o-animation: fadein 4s;
+      }
+      &--art {
+        background: rgb(0 0 0 / 0.4) url(../../../assets/ff-art9.jpg);
+        background-size: cover;
+        background-blend-mode: darken;
+        animation: fadein 5s;
+        -moz-animation: fadein 5s;
+        -webkit-animation: fadein 5s;
+        -o-animation: fadein 5s;
+      }
+      a {
+        font-size: 2.5rem;
+        color: whitesmoke;
+      }
+    }
+  }
+
+  h3 {
+    font-size: 1.5em;
+    animation: fadein 2s;
+    -moz-animation: fadein 2s;
+    -webkit-animation: fadein 2s;
+    -o-animation: fadein 2s;
+  }
+}
+@keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@-moz-keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@-webkit-keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@-o-keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}

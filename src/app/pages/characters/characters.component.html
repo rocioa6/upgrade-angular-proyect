@@ -1,0 +1,75 @@
+<section>
+  <h2>Characters</h2>
+  <div class="container-input">
+    <img src="../../../assets/mogu.png" alt="mogu"/>
+    <input
+      type="text"
+      [(ngModel)]="filter"
+      (ngModelChange)="onChangeFilter($event)"
+      placeholder="Search by name, job or game"
+
+    />
+  </div>
+  <div class="logo-container">
+    <div class="image">
+      <img
+        (click)="originFilter('Final Fantasy')"
+        src="../../../assets/ff1.svg"
+      />
+    </div>
+    <div class="image">
+      <img
+        (click)="originFilter('Final Fantasy II')"
+        src="../../../assets/ff2.svg"
+      />
+    </div>
+    <div class="image">
+      <img
+        (click)="originFilter('Final Fantasy III')"
+        src="../../../assets/ff3.svg"
+      />
+    </div>
+    <div class="image">
+      <img
+        (click)="originFilter('Final Fantasy IV')"
+        src="../../../assets/ff4.svg"
+      />
+    </div>
+    <div class="image">
+      <img
+        (click)="originFilter('Final Fantasy V')"
+        src="../../../assets/ff5.svg"
+      />
+    </div>
+    <div class="image">
+      <img
+        (click)="originFilter('Final Fantasy VI')"
+        src="../../../assets/ff6.svg"
+      />
+    </div>
+  </div>
+
+  <div class="container" *ngIf="filteredCharacters">
+    <figure *ngFor="let character of filteredCharacters">
+      <span
+        ><h3>{{ character.name }}</h3>
+        <h4>{{ character.origin }}</h4></span
+      >
+      <div class="card-content">
+        <div class="container-img">
+          <img src="{{ character.picture }}" alt="{{ character.name }}" />
+        </div>
+        <div class="card-text">
+
+        <span
+          ><p>LVl {{ generateNumber(100) }}</p>
+          <p>{{ character.job }}</p></span
+        >
+        <p>HP {{ generateNumber(1000) }} /  {{ generateNumber(1000) }}</p>
+        <p>MP {{ generateNumber(1000) }} /  {{ generateNumber(1000) }}</p>
+      </div>
+      </div>
+      <button (click)="catchCharacter(character)">Edit</button>
+    </figure>
+  </div>
+</section>

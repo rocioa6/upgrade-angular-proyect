@@ -1,0 +1,22 @@
+<nav>
+  <div class="container-img" routerLink="/">
+    <img src="../../../assets/ff-logo.svg" alt="Final fantasy logo" />
+  </div>
+  <ul>
+    <li>
+      <a routerLink="/characters">Characters</a>
+    </li>
+    <li>
+      <a routerLink="/games">Games</a>
+    </li>
+    <li>
+      <a routerLink="/art">Art</a>
+    </li>
+    <li>
+      <a routerLink="/gestion">Gestion</a>
+    </li>
+  </ul>
+  <div class="theme-changer" (click)="changeTheme()">
+    <mat-slide-toggle>{{ themeText }}</mat-slide-toggle>
+  </div>
+</nav>

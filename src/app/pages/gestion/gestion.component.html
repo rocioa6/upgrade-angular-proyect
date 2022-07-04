@@ -1,0 +1,15 @@
+<section>
+  <h2>Gestion</h2>
+  <form novalidate [formGroup]="characterForm" (ngSubmit)="onSubmit()">
+    <label for="name">Name</label>
+    <input type="text" id="name" formControlName="name">
+    <label for="job">Job</label>
+    <input type="text" id="job" formControlName="job">
+    <label for="origin">Origin</label>
+    <input type="text" id="origin" formControlName="origin">
+    <label for="picture">Picture</label>
+    <input type="text" id="picture" formControlName="picture">
+    <button type="submit">Submit</button>
+    <button type="button" *ngIf="characterID !==''"(click)="delete()">Delete</button>
+  </form>
+</section>
