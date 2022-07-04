@@ -1,0 +1,871 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Black Mage",
+      "job": "Black Mage",
+      "origin": "Final Fantasy",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/67ce5c86-d6f6-497d-9453-b51383fcad40.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Black Wizard",
+      "job": "Black Wizard",
+      "origin": "Final Fantasy",
+      "description": null,
+      "picture": "https://mooglestorage.blob.core.windows.net/images/1481bb97-9764-4935-78b6-08d850f8108d.jpg"
+    },
+    {
+      "name": "Knight",
+      "job": "Knight",
+      "origin": "Final Fantasy",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/6f83dcaa-707f-4cb0-78b9-08d850f8108d.jpg",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Master",
+      "job": "Master",
+      "origin": "Final Fantasy",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/b47e42bf-73dc-4083-78bb-08d850f8108d.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Monk",
+      "job": "Monk/Master",
+      "origin": "Final Fantasy",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/bb909dcd-1546-4ca0-8e44-eaebf8b2a4c9.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Ninja",
+      "job": "Ninja",
+      "origin": "Final Fantasy",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/b7a79025-5164-49f5-78ba-08d850f8108d.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Red Mage",
+      "job": "Red Mage",
+      "origin": "Final Fantasy",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/3fbce3ab-ca5d-4202-8360-b706f39a0e11.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Red Wizard",
+      "job": "Red Wizard",
+      "origin": "Final Fantasy",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/c8ac0fe0-c4ff-4ad5-78b8-08d850f8108d.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Thief",
+      "job": "Thief/Ninja",
+      "origin": "Final Fantasy",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/f20f98d1-64ae-4881-98a9-e6248f2aabd9.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Warrior",
+      "job": "Attacker",
+      "origin": "Final Fantasy",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/1355d34b-6af7-4167-78b5-08d850f8108d.jpg"
+    },
+    {
+      "id": 11,
+      "name": "White Mage",
+      "job": "White Mage",
+      "origin": "Final Fantasy",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/eb4841c6-eaf0-4caf-b0d9-aa67711cb9a3.jpg"
+    },
+    {
+      "id": 12,
+      "name": "White Wizard",
+      "job": "White Wizard",
+      "origin": "Final Fantasy",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/f7b04d97-06dc-45cf-78b7-08d850f8108d.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Borghen",
+      "job": "General",
+      "origin": "Final Fantasy II",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/fe62ba89-b77f-4f3e-a43b-d6e5be00627f.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Cid",
+      "job": "Engineer",
+      "origin": "Final Fantasy II",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/3a06e9f3-6e29-4372-921e-03df6fc5f0d6.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Firion",
+      "job": "Red Mage",
+      "origin": "Final Fantasy II",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/368a2ec5-fa9a-40f6-8f58-2261305cb199.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Gordon",
+      "job": "Warrior Mage",
+      "origin": "Final Fantasy II",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/fec461fb-7eef-4025-8182-7ce97c5b39d7.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Guy",
+      "job": "Warrior",
+      "origin": "Final Fantasy II",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/f5937b46-0960-4b76-bbb0-f747a8985894.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Hilda",
+      "job": "Princess",
+      "origin": "Final Fantasy II",
+      "description": "Princess Hilda (ヒルダ Hiruda), later known as Queen Hilda, is a non-player character from Final Fantasy II. She is the daughter of the King of Fynn and the leader of the Wild Rose Rebellion, to which the main characters belong.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/d72d1dc7-53c0-4bf3-8c57-36136f191a43.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Josef",
+      "job": "Monk",
+      "origin": "Final Fantasy II",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/5893eb8b-4c2a-484c-9280-6fe8e59c7730.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Leila",
+      "job": "Thief",
+      "origin": "Final Fantasy II",
+      "description": "Leila (レイラ Reira, ''Reila'' in the Japanese version) is one of Firion's allies in Final Fantasy II. She is encountered as a pirate captain, hired by Firion to transport the heroes across the seas to the ruined kingdom of Deist.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/1ce46f34-2964-42cc-b2f6-55201d8289ad.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Leon",
+      "job": "Dark Knight",
+      "origin": "Final Fantasy II",
+      "description": "Leon (レオンハルト Reonharuto, ''Leonhard'' in the Japanese version), also known as Leonhart, is one of the playable characters in Final Fantasy II. He is an ally but he also serves as the secondary antagonist throughout the game as the Emperor's Dark Knight.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/674da8f0-6d2e-4f10-b807-50891e1c2138.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Maria",
+      "job": "Black Mage",
+      "origin": "Final Fantasy II",
+      "description": "Maria (マリア) is the main deuteragonist of Final Fantasy II. She is one of Firion's permanent allies, and Leon's sister, but the two are separated at the beginning of the game.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/238e6c80-dd61-4289-95cc-9dfab5fe0ddc.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Mateus",
+      "job": "Emperor",
+      "origin": "Final Fantasy II",
+      "description": "The Emperor of Palamecia(パラメキア皇帝 Paramekia Kōtei) is the main antagonist of Final Fantasy II. He is the ruler of the Palamecian Empire and aims to conquer the world through demonic forces. Though known simply as the Emperor in Final Fantasy II, he is named Mateus (マティウス Matiusu) in the Japan-exclusive novelization: Final Fantasy II Nightmare's Labyrinth by Kenji Terada. His name, Mateus, is referred to in Dissidia Final Fantasy with his best weapon, Mateus's Malice. He is known as Empire in the Dark Shadow Over Palakia translation.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/e889bc23-c86d-438d-b17f-c2253035d274.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Minwu",
+      "job": "White Mage",
+      "origin": "Final Fantasy II",
+      "description": "Minwu (ミンウ Min'u, ''Ming-Wu'' in the Japanese version), known as Mindu in the Final Fantasy Origins version, and called Minh in the Neo Demiforce fan translation, is one of the temporarily playable characters from Final Fantasy II, as well as the protagonist of Soul of Rebirth. A White Wizard from Mysidia, he works as Fynn's Royal Mage, and after Fynn's takeover by the Palamecian Empire, he becomes Princess Hilda's right-hand man who will do anything to help the Wild Rose Rebellion. Minwu is alluded to in several other installments, always as a great mage of lore.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/1b3f8629-d5e3-40dd-905a-d6a8a4f72430.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Paul",
+      "job": "Thief",
+      "origin": "Final Fantasy II",
+      "description": "Paul (ポール Pōru?), also known as Pavel, is a thief loyal to Fynn from Final Fantasy II. Better at working alone than with others, he is encountered many times, where he helps the party.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/284a8dc9-23ad-4c0f-ab5e-ffa71dadae6b.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Ricard",
+      "job": "Dragoon",
+      "origin": "Final Fantasy II",
+      "description": "Ricard Highwind (リチャード・ハイウインド Richādo Haiuindo, ''Richard'' in the Japanese version), also known as Gareth in the Final Fantasy Origins translation, and Edward in the Dark Shadow Over Palakia translation, is a character from Final Fantasy II. He is the last surviving Dragoon from Deist. He is the first Dragoon Knight in the series.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/19f36cb8-58bb-4bcd-8ab1-7fcb45e18645.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Scott",
+      "job": "Prince",
+      "origin": "Final Fantasy II",
+      "description": "Scott (スコット Sukotto) is a character from Final Fantasy II. He is a prince of Kashuan and the elder brother of Gordon. He first appeared as a minor character, but in the Soul of Rebirth quest he plays a larger role as a party member.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/76607988-1eb4-410a-b617-25844d389c8e.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Alus",
+      "job": "Prince",
+      "origin": "Final Fantasy III",
+      "description": "Prince Alus Restor (アルス・レストー Arusu Resutō), also known as Allus, is the young crown prince of Saronia in Final Fantasy III. He is met in southwestern Saronia. An outspoken prince, he is shy and has recently fallen on hard times. In the 3D remake version for Nintendo DS and mobile platforms, Arc takes a liking towards him as both of them were belittled in the past, despite the age difference.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/fbbf392d-5805-40a9-812d-9e93ed9f7a64.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Arc",
+      "job": "Freelancer",
+      "origin": "Final Fantasy III",
+      "description": "Arc (アルクゥ Arukū) is a playable character in the 3D remake release of Final Fantasy III. He is one of the Warriors of Light, and is first encountered in Ur. He is the shortest party member with brown hair and freckles. His Freelancer outfit consists of a yellow shirt covered by a long green coat, a white mantle, and a yellow scarf. He wears fingerless gloves, fitted black pants, and brown knee-high boots. His theme color is green, shown in his Job armors, while his scarf is visible when robe-clad. Arc's silver belt buckle is used to distinguish his Job outfits from his allies.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/b986288d-bcc9-4228-bd34-1c41cf1c2f2a.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Aria",
+      "job": "White Mage",
+      "origin": "Final Fantasy III",
+      "description": "Aria Benett (エリア・ベネット Eria Benetto), also known as Elia, is a guest character from Final Fantasy III. She temporarily joins the party at the Wrecked Ship to restore the Water Crystal. She is also the first character in the series to have her own personal theme. Aria is a young girl with long blonde hair with a small braid in the back tied with a blue ribbon and the rest tied in a ponytail and blue eyes. She wears a long, plain, white halter-dress.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/37a1e78c-32ac-49e7-a193-3bafa633347e.jpg"
+    },
+    {
+      "id": 31,
+      "name": "Cid",
+      "job": "Engineer",
+      "origin": "Final Fantasy III",
+      "description": "Cid Haze (シド・ヘイズ Shido Heizu) is a character in Final Fantasy III. He is an eccentric looking old man with a large beard, and wide brimmed wizard's hat with goggles on it. He is met in Kazus. In the 3D remakes, Cid can help out the party in battle, either with a one-hit hammer attack or a casting of Fire. As with all ally characters, he attacks at random intervals, and his hammer attack hits a random target. ",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/ec566346-3adb-45dc-b221-87e490e537ad.jpg"
+    },
+    {
+      "id": 32,
+      "name": "Cloud of Darkness",
+      "job": "??",
+      "origin": "Final Fantasy III",
+      "description": "The Cloud of Darkness (暗闇の雲 Kurayami no Kumo, lit. The Dark Cloud) is the primary antagonist and final boss of Final Fantasy III. Although it is the final boss, it does not appear until the very end. Its goal is to cause a flood of darkness to reduce the world to nothingness. In Final Fantasy III, the Cloud of Darkness appears as a green-skinned female humanoid emerging from a portal of darkness at its waist. It has a red heart-shaped mark on its forehead, and several mouthed tentacles around it. In Yoshitaka Amano's concept art of it and in Dissidia Final Fantasy, the Cloud of Darkness takes the form of a shapely woman wearing a red and black cape with the rest of its body covered in red and black markings. It has the red heart-shaped mark on its forehead, and has long silver hair. It has only two tentacles, emerging from its waist. The Cloud of Darkness is the tallest non-giant character in the Dissidia series. Though the Cloud of Darkness universally takes on a feminine form, it is officially considered a genderless being that merely chooses to appear as such. The Cloud of Darkness refers to itself in the plural, using \"We\" instead of \"I\". Dissidia Final Fantasy explains this as its two tentacles having minds of their own, and the humanoid body speaking for the three of them.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/9e479acc-9b52-4219-aec0-5d8615ea44b2.jpg"
+    },
+    {
+      "id": 33,
+      "name": "Desch",
+      "job": "Warrior",
+      "origin": "Final Fantasy III",
+      "description": "Desch (デッシュ Desshu), also known as Desh, is a character from Final Fantasy III. A man suffering from amnesia, he is a capable warrior, and a bit of a womanizer despite being in a relationship with Salina. He is first met at Dragon's Peak. In the 3D remake version, he befriends Refia during his time traveling with the party. Desch is a slender youth with teal hair and purple eyes in his 3D render and in his Amano sketchwork. He is depicted in a purple bodysuit with a single pauldron over his left shoulder. In his NES appearance, his field sprite is a palette swap of a Warrior, while his menu sprite depicts a green bodysuit and blond hair.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/f402a09c-3961-475e-a493-e3467f7e96d6.jpg"
+    },
+    {
+      "id": 34,
+      "name": "Djinn",
+      "job": "??",
+      "origin": "Final Fantasy III",
+      "description": "Djinn (ジン Jin), also known as Jinn, is a minor antagonist in Final Fantasy III and an early boss. Djinn is the first boss the player will face with all four playable characters in the 3D version. The NES version has the player start with all four characters. Djinn placed the village of Kazus and Castle Sasune under a curse which turned its residents into ghosts. The only way to remove the curse is for the Djinn to be sealed in the Mythril Ring, which Princess Sara sets out to do. Djinn is resistant to the ring's effect, and it takes the Warriors of the Light to weaken him enough to be banished. Djinn primarily uses strong melee attacks with his scimitar and Fire magic. The Djinn generally can do around 30 damage with his scimitar and 20 when Fire is cast on all characters. He is weak against Water and Ice spells and items; players should use Blizzard, s, and/or Antarctic Winds, but regular attacks will also suffice.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/85825665-5086-43c0-87a6-3ab671a743e7.jpg"
+    },
+    {
+      "id": 35,
+      "name": "Doga",
+      "job": "Wizard",
+      "origin": "Final Fantasy III",
+      "description": "Doga (ドーガ Dōga), or Dorga is a supporting character from Final Fantasy III, who temporarily joins the party after being met at Doga's Manor. He is a powerful wizard who has lived for many years. Doga supports the party at several points of the game in his state as a mortal and even after his own death.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/04316610-856c-498c-8606-22738fa14075.jpg"
+    },
+    {
+      "id": 36,
+      "name": "Goldor",
+      "job": "??",
+      "origin": "Final Fantasy III",
+      "description": "Goldor (ゴールドル Gōrudoru) is a minor antagonist in Final Fantasy III. He owns a giant, gold-encrusted manor to the south of Amur.\n\nGoldor lives in his manor, where everything is pure gold. Within it is a crystal, of which Goldor is very protective. When the four Warriors of the Light appeared on the Surface World after cleansing the Water Crystal, Goldor was afraid the Warriors might take his crystal away, and so chained their ship with a giant gold chain.\n\nThe Warriors of the Light then traveled to Goldor Manor, but not before acquiring the Levigrass Shoes used to cross the deadly bottomless bog in front of the golden estate. Inside the labyrinthine mansion, they confronted many gold monsters until they came face to face with Goldor. By defeating him, they obtained the key that would be used to unshackle their ship.\n\nGoldor's crystal is his most valued of possessions, but in reality, it is made of gold like everything else and is not the crystal of Earth as the Warriors of the Light suspect.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/eb92dedd-ddef-410f-862b-75fa35f8cece.jpg"
+    },
+    {
+      "id": 37,
+      "name": "Gutsco",
+      "job": "Thief",
+      "origin": "Final Fantasy III",
+      "description": "Gutsco the Rogue (とうぞくグツコ Tōzoku Gutsuko, lit. Bandit Gutsco), also known as Guzco, is a minor antagonist and a boss from Final Fantasy III. Gutsco appears in the Subterranean Lake and has stolen one of the dwarves' Horns of Ice. After he is defeated once, he follows the party as a shadow to the Dwarven Hollows until they near both Horns, where he promptly steals both of them. The party pursues Gutsco with encouragement from the dwarves, but Gutsco escapes. He runs to the Molten Cave, where he heads to obtain the power of the Fire Crystal now that he is protected from the cave's hostile magma thanks to the Horns of Ice. The Warriors of the Light find him at the crystal room in the depths of the cave, and fight him in his state of empowerment granted by the Fire Crystal where he takes the form of the Salamander.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/dca49896-a055-481a-a58c-7bb5cae01776.jpg"
+    },
+    {
+      "id": 38,
+      "name": "Hein",
+      "job": "Sorcerer",
+      "origin": "Final Fantasy III",
+      "description": "Hein (まどうし ハイン Madoushi Hain, lit. Sorcerer Hein), also known as Hyne, is a minor antagonist in Final Fantasy III. Hein had gained the trust of the king of Castle Argus, which governed a large region of the Floating Continent, and became the castle's wizard. In reality, he is one of several monsters sent by Xande to cause chaos on the Floating Continent, and his true form is that of a skeletal being. He casts a spell over the Elder Tree, causing it to float over the desert south of Castle Argus, and christens it Castle Hein.\n\nHein bewitches the castle's inhabitants and imprisons them in his new fortress, where he terrorizes the neighboring town of Tokkul. Luneth and his friends are captured during a raid and are brought to the living castle. They overcome the guards and monsters and ascend the decaying tree to face Hein, who shows no remorse for his actions. The Warriors of Light defeat the crazed mage, and the Elder Tree returns to its true form. Before replanting itself in the forest from whence it came, the tree restores the royal family and guards of Argus to their rightful place at the throne. ",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/da6acbfb-65e1-4bdd-b523-bfe93e9455e6.jpg"
+    },
+    {
+      "id": 39,
+      "name": "Ingus",
+      "job": "Freelancer",
+      "origin": "Final Fantasy III",
+      "description": "Ingus is one of the main characters of Final Fantasy III since the 3D remake. Though he has no set job class, he is portrayed as a Red Mage in the opening FMV. He is first met at Castle Sasune. He has short blonde hair and blue eyes. His Freelancer outfit is heavy armor and chain mail on his arms and legs, over which he wears a white shirt with puffed sleeves and a wide collar, and a red gambeson over that. Ingus's theme color is red, shown in his Job armors. The white belt, gambeson pattern, collar, or green pendant are used to distinguish his Job outfits from his allies'. In the opening FMV, he is depicted as a Red Mage, probably as a reference to the fact that Red Mages are considered to be the elite warriors of Sasune.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/ce80198a-b799-4431-9418-46e47985e575.jpg"
+    },
+    {
+      "id": 40,
+      "name": "Luneth",
+      "job": "Freelancer",
+      "origin": "Final Fantasy III",
+      "description": "Luneth (ルーネス Rūnesu) is one of the main characters in the 3D remake of Final Fantasy III, and is the first to become available. He is one of the Warriors of Light. He has long silver hair and violet eyes, and in his Freelancer outfit wears a light purple turtleneck covered by a dark violet sweatshirt and a sienna vest. He wears brown gloves, long light gray pants, black knee-high boots, and carries a light brown fanny pack. His theme color is purple, shown in his Job armor, while his turtleneck collar is visible while robe-clad. The three buckles on his vest are used to distinguish his Job outfits from his allies'.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/d5ca4bea-bf29-4b1a-862e-b5c4b2f55128.jpg"
+    },
+    {
+      "id": 41,
+      "name": "Refia",
+      "job": "Freelancer",
+      "origin": "Final Fantasy III",
+      "description": "Refia (レフィア Refia) is a playable character from the 3D remake of Final Fantasy III. She is a Warrior of Light, and is first encountered at Cid's airship. She has red hair and red eyes. Her Freelancer outfit is a white long-sleeved blouse with a blue vest, black leggings, and thigh-high boots. Refia's theme color is blue, shown in her job armor. Although most of her outfits are the same as the others characters, a few, like Summoner, are feminized. Her cross-shaped brooch is used to distinguish her job outfits among the party. Refia sports various hairstyles among ranging from braids to ponytails to pigtails. In the opening FMV, she is depicted as a White Mage.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/71feb984-8e9e-45fc-b341-9f3a1047ec04.jpg"
+    },
+    {
+      "id": 42,
+      "name": "Sara",
+      "job": "Princess",
+      "origin": "Final Fantasy III",
+      "description": "Lady Sara Altney (サラ・アルテニー Sara Arutenī) is the princess of Sasune from Final Fantasy III, and the player's first extra party member. She is met and recruited in the Sealed Cave. In the 3D releases, she has feelings toward Ingus. Sara joins the party after they travel into the Sealed Cave to find her, assuming that the Djinn had kidnapped the princess for her Mythril Ring. However, Sara left of her own volition to break his curse. Her first attempt to seal the Djinn with the Mythril Ring fails, so the party must weaken him in battle before it works. After the Djinn is killed, she throws her ring into the spring in the castle basement, dispelling the curse and remaining in Castle Sasune while the party continues with their adventure. The 3D remake adds a Mognet sidequest. Sara writes to Ingus throughout the game, and her final letter is a request to fix her broken pendant, which leads the party to meet the Legendary Smith. Whenever the party meets Sara, she shows interest in Ingus. While he has sworn to protect her, he returns the interest. When Doga asks Sara to help break the Curse of the five wyrms, she joins him once she finds out Ingus is in trouble. After breaking the curse, she stays behind with the others while the party enters the World of Darkness. When the Cloud of Darkness is defeated, Sara decides to stay with Ingus for a while, before returning to the castle.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/449f891a-29e0-47b0-8e49-27b9b689e178.jpg"
+    },
+    {
+      "id": 43,
+      "name": "Unei",
+      "job": "Magus",
+      "origin": "Final Fantasy III",
+      "description": "Unei (ウネ Une), also romanized as Unne, is a supporting character from Final Fantasy III. She can aid the party by using Holy or Haste at the start of battle.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/dab65d19-cedb-4b39-b14d-f0a5a4e02175.jpg"
+    },
+    {
+      "id": 44,
+      "name": "Xande",
+      "job": "Wizard",
+      "origin": "Final Fantasy III",
+      "description": "Xande (ザンデ Zande) is the main antagonist of Final Fantasy III. He is a powerful wizard and student of the Great Magus Noah. When his master gives him the gift of mortality, the thought of dying sends Xande over the edge. Although he is mentioned several times in the course of the game, he appears in person only once, when the Warriors of Light battle him. Xande has white hair and dark blue skin with bright yellow eyes. He appears with great muscle mass shown by his exposed upper body, he wears a white cape (blue in the NES version), orange pants, an orange and blue sash wrapped around his waist with what appears to be a cat-shaped buckle at the top-center of it, and brown boots. Master Xande was originally one of Great Magus Noah's students, along with Master Doga and Master Unei. Both Master Doga and Master Unei were given great magical powers. Master Xande was given a much stranger gift, the gift of mortality. Master Xande was driven mad by the thought of dying. In a blind rage, Master Xande sought to disrupt the balance of light and darkness, by draining the crystals of their power. By doing so, the world would be flooded in darkness, and time would freeze. Thus, he would no longer have to fear death.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/be39875e-33ff-4e0e-afc0-23d4b55128a1.jpg"
+    },
+    {
+      "id": 45,
+      "name": "Baigan",
+      "job": "Captain",
+      "height": "??",
+      "origin": "Final Fantasy IV",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/4605d157-9d01-4330-80fb-e7bc2397bf8a.jpg"
+    },
+    {
+      "id": 46,
+      "name": "Barbariccia",
+      "job": "Archfiend",
+      "origin": "Final Fantasy IV",
+      "description": "Barbariccia (バルバリシア Barubarishia), also known as Valvalis or Valvalecia, is a recurring character in the Final Fantasy universe. First appearing as a minor antagonist, she is a fiend associated with the element of Wind. She has the signature ability of shielding herself by whipping her hair to form a protective whirlwind around her, and the recurring ability Maelstrom.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/0451e0ab-0c16-40e6-85d6-328cbb98d135.jpg"
+    },
+    {
+      "id": 47,
+      "name": "Cagnazzo",
+      "job": "Archfiend",
+      "origin": "Final Fantasy IV",
+      "description": "Cagnazzo (カイナッツォ Kainattso) is a recurring character in the Final Fantasy series. First appearing as a minor antagonist, he is a fiend associated with the element of Water. He takes the appearance of a large demonic turtle-like creature. He is a demonic sentient monster, and part of the Archfiends.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/c01279fb-77f8-42f8-a1f5-7af662aa10a9.jpg"
+    },
+    {
+      "id": 48,
+      "name": "Cecil",
+      "job": "Dark Knight/Paladin",
+      "origin": "Final Fantasy IV",
+      "description": "Cecil Harvey (セシル・ハーヴィSeshiru Havi) is the main protagonist of Final Fantasy IV, who also appears in the sequel Final Fantasy IV: The After Years, and the interquel Final Fantasy IV -Interlude- that bridges the gap between the two games. Cecil is one of the few characters in the series to change his job during the game, starting out as a Dark Knight, but after a trial and the battle with the first of the Four Elemental Archfiends, transforms into a Paladin.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/2f359bab-46df-42d8-8e68-741d28d0f805.jpg"
+    },
+    {
+      "id": 48,
+      "name": "Cid",
+      "job": "Engineer",
+      "origin": "Final Fantasy IV",
+      "description": "Cid Pollendina (シド・ポレンディーナ Shido Porendīna) is a playable character in Final Fantasy IV and its sequel, Final Fantasy IV: The After Years. He is a master engineer who designs the airships that make up the Red Wings in Baron. He is an old acquaintance of Cecil Harvey and is adventurous and fun-loving.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/19453a0f-3484-496a-91d6-5a832348df9e.jpg"
+    },
+    {
+      "id": 49,
+      "name": "Edge",
+      "job": "Ninja",
+      "origin": "Final Fantasy IV",
+      "description": "Edge (エドワード・'エッジ'・ジェラルダイン Edowādo ''Ejji'' Jerarudain), real name Edward Geraldine, is a player character in Final Fantasy IV and its sequel, Final Fantasy IV: The After Years. Various sources offer conflicting information on Edge's name. The gallery in Final Fantasy IV: The Complete Collection lists Edge's artwork as 'Edge (Edward) Geraldine', while other sources, including collector cards included with the game, give his name as Edward Geraldine with Edge as an alias or nickname. He is the prince of Eblan and a skilled ninja. He is brash and has an inflated ego, and frequently flirts with women. He is kind with a strong sense of right and wrong, and defends his kingdom no matter the price.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/90dfd4a8-3060-4a4f-95d9-ae3a4887b8f5.jpg"
+    },
+    {
+      "id": 50,
+      "name": "Edward",
+      "job": "Bard",
+      "origin": "Final Fantasy IV",
+      "description": "Edward Chris von Muir (ギルバート・クリス・フォン・ミューア Girubāto Kurisu fon Myūa, ''Gilbart Chris von Muir'' in the Japanese version), is a playable character from Final Fantasy IV and its sequel, Final Fantasy IV: The After Years. He is the crown prince of Damcyan, and in line to become the seventh king. Although he is required to be educated in politics, Edward shows greater interest in music and often leaves the kingdom disguised as a bard to travel the land with his harp.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/15a3b8f1-fd82-4fe2-ac4b-3639e5be3281.jpg"
+    },
+    {
+      "id": 51,
+      "name": "Fusoya",
+      "job": "Sorcerer",
+      "origin": "Final Fantasy IV",
+      "description": "Fusoya (フースーヤ Fūsūya, ''Fusuya'' in the Japanese version and ''FuSoYa'' in earlier versions), is the final playable character in Final Fantasy IV who also appears in Final Fantasy IV: The After Years. He is a Lunarian from the Red Moon, and it is his job to watch over the Lunarians' sleep. He is the oldest of the main characters and reveals significant plot details during the short time he is with the party.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/aad45cd6-0b72-486f-bbdd-8cbfd819f07f.jpg"
+    },
+    {
+      "id": 52,
+      "name": "Golbez",
+      "job": "Sorcerer",
+      "origin": "Final Fantasy IV",
+      "description": "Golbez (ゴルベーザ Gorubēza), real name Theodor (セオドール, Seodōru), and called Man in Black (黒衣の男, Kokui no Otoko) before his identity is revealed in The After Years, is a non-player character in Final Fantasy IV and a playable character in Final Fantasy IV: The After Years. In Final Fantasy IV, he is an antagonist, a powerful sorcerer who pursues the Crystals. In The After Years, Golbez returns as a playable character.\r\n\r\nGolbez is Cecil's older brother.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/81875e90-1101-47cc-93b8-df6639e89f1c.jpg"
+    },
+    {
+      "id": 53,
+      "name": "Kain",
+      "job": "Dragoon",
+      "origin": "Final Fantasy IV",
+      "description": "Kain Highwind (カイン・ハイウィンド Kain Haiwindo, ''Cain Highwind'' in the Japanese version) is a playable character in Final Fantasy IV and Final Fantasy IV: The After Years. He is a Dragoon from the kingdom of Baron, Cecil Harvey's childhood friend and adoptive older brother. He has feelings for Cecil's beloved Rosa Joanna Farrell, but he hides them so they do not hinder his relationship with either of the two: Rosa in turn has feelings for Cecil.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/336601e6-e6b1-4752-be6a-5ccdb7ff3532.jpg"
+    },
+    {
+      "id": 54,
+      "name": "Lugae",
+      "job": "Scientist",
+      "origin": "Final Fantasy IV",
+      "description": "Dr. Lugae (ルゲイエ (Rugeie) is a character in Final Fantasy IV. He is a servant of Golbez, and does experiments for him and the Archfiends. He works in the Tower of Babil. His prized creation was a robot named Barnabas.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/add45a72-ef60-4ee6-b9f5-9c1b7c17c644.jpg"
+    },
+    {
+      "id": 55,
+      "name": "Palom",
+      "job": "Black Mage",
+      "origin": "Final Fantasy IV",
+      "description": "Palom (パロム Paromu) is a playable character in Final Fantasy IV and its sequel, Final Fantasy IV: The After Years. He is a Black Mage from Mysidia who trains together with his twin sister, Porom.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/093c553c-9489-44c3-9599-bc4cf6b79b37.jpg"
+    },
+    {
+      "id": 56,
+      "name": "Porom",
+      "job": "White Mage",
+      "origin": "Final Fantasy IV",
+      "description": "Porom (ポロム Poromu) is a playable character in Final Fantasy IV and its sequel, Final Fantasy IV: The After Years. She is a White Mage from Mysidia who trains together with her twin brother, Palom.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/c63e745f-1df3-421d-84d6-64021b837415.jpg"
+    },
+    {
+      "id": 57,
+      "name": "Rosa",
+      "job": "Whtie Mage",
+      "origin": "Final Fantasy IV",
+      "description": "Rosa Joanna Farrell (ローザ・ファレル Rōza Fareru) is a playable character in Final Fantasy IV and its sequel, Final Fantasy IV: The After Years. She hails from Baron, and is a skilled Archer and White Mage. Rosa is Cecil's childhood friend, and harbors romantic feelings for him. Though Cecil is reluctant to let her follow him into danger at first, she stays by his side.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/797bf912-3a48-45a3-88ed-a2b938b24598.jpg"
+    },
+    {
+      "id": 58,
+      "name": "Rubicante",
+      "job": "Archfiend",
+      "origin": "Final Fantasy IV",
+      "description": "Rubicante (ルビカンテ Rubikante) also known as Rubicant, is a recurring character in the Final Fantasy universe. First appearing in Final Fantasy IV as a minor antagonist, he is one of the four archfiends associated with the elements; in this case, fire. Despite his role as an antagonist, he has a strong sense of honor and fair play, unlike the other archfiends.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/e52a3b81-b00e-4ee4-aecc-41c03db495ea.jpg"
+    },
+    {
+      "id": 59,
+      "name": "Rydia",
+      "job": "Summoner",
+      "origin": "Final Fantasy IV",
+      "description": "Rydia (ミストのリディア Misuto no Ridia), sometimes referred to as Rydia of Mist, is a playable character in Final Fantasy IV and its sequel, Final Fantasy IV: The After Years. She is a Summoner from the village of Mist, and is one of the most prominent characters in the game.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/8d48ebfb-04aa-4385-903e-f9cfac1ae0e8.jpg"
+    },
+    {
+      "id": 60,
+      "name": "Scarmiglione",
+      "job": "Archfiend",
+      "origin": "Final Fantasy IV",
+      "description": "Scarmiglione (スカルミリョーネ Sukarumiryōne), also known as Milon, is a recurring character in the Final Fantasy universe. First appearing as a minor antagonist, he is a fiend associated with the element of Earth and the undead.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/5f78a84c-3caa-43ac-99ce-dad015725e44.jpg"
+    },
+    {
+      "id": 61,
+      "name": "Tellah",
+      "job": "Sage",
+      "origin": "Final Fantasy IV",
+      "description": "Tellah (テラ Tera, ''Tella'' in the Japanese version) is a playable character in Final Fantasy IV. He is the Great Sage of Mysidia, and a master of both White and Black Magic, but due to his old age, he can only remember a few of his spells. He has a short temper, and will not hesitate to spring into action when something happens to someone or something he is close to.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/1c2a2aca-0953-4229-ab7c-e2c0efb68210.jpg"
+    },
+    {
+      "id": 62,
+      "name": "Yang",
+      "job": "Monk",
+      "origin": "Final Fantasy IV",
+      "description": "Yang Fang Leiden (ヤン・ファン・ライデン Yan Fan Raiden) is a playable character in Final Fantasy IV and its sequel, Final Fantasy IV: The After Years. He is a Monk from the kingdom of Fabul, and is among the highest ranked and most respected of their number. Despite this, he is a humble man, and so does not bask in his glory, but rather tries his best to be respectful. Yang is generally well disciplined, but has trouble with sleeping in, requiring the intervention of his wife and her trusty frying pan to wake him up.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/1f999ad6-f4a7-47af-86fc-e67b2527cca7.jpg"
+    },
+    {
+      "id": 63,
+      "name": "Zemus",
+      "job": "Sorcerer",
+      "origin": "Final Fantasy IV",
+      "description": "Zemus (ゼムス Zemusu) is the main antagonist of Final Fantasy IV. He is a Lunarian who wants his brethren to come out of their long slumber and populate the Earth. He has formidable mind-control powers that he uses to manipulate various individuals, especially those with Lunarian blood.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/ed6e572a-68d2-4edf-9b38-3e214643fb66.jpg"
+    },
+    {
+      "id": 64,
+      "name": "Zeromus",
+      "job": "Zemus' spirit",
+      "origin": "Final Fantasy IV",
+      "description": "Zeromus (ゼロムス Zeromusu) is the final boss of Final Fantasy IV and the spirit and hatred of Zemus incarnate. Zeromus appears with three battle scripts, with only the third being possible to defeat. The party faces him in the Moon. After Fusoya and Golbez defeat Zemus, Zeromus emerges from his corpse, proclaiming itself as Zemus's hatred. Fusoya and Golbez's attacks have no effect on Zeromus, and when Golbez tries to use the Crystal, the creature proclaims evil hearts cannot wield it, and attacks both with Meteor. Everyone left at Mysidia prays for Cecil. Their prayers revive him and his party, and Golbez hands over the Crystal and beckons Cecil to use it. He does so, and Zeromus's invincibility disappears, revealing its true form.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/304cea97-02fb-49fc-ac5f-882db0aaba14.jpg"
+    },
+    {
+      "id": 65,
+      "name": "Alexander",
+      "job": "King",
+      "origin": "Final Fantasy V",
+      "description": "Alexander Highwind Tycoon (アレクサンダー・ハイウィンド・タイクーン Arekusandā Haiwindo Taikūn) is a character from Final Fantasy V. He is the king of Tycoon and the father of Lenna and Sarisa. His speech is credited to King in the Anthology release, and King Tycoon in the Advance and later releases.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/0ebf4a44-3db7-4ea0-af00-37ad62f7993a.jpg"
+    },
+    {
+      "id": 66,
+      "name": "Bartz",
+      "job": "Wanderer",
+      "origin": "Final Fantasy V",
+      "description": "Bartz Klauser (バッツ・クラウザー Battsu Kurauzā), known as Batz in Final Fantasy: Legend of the Crystals, and Butz in Japan, is the main protagonist of Final Fantasy V. His mother died when he was young, and his father died three years ago, but on advice from his father, Bartz decided to explore the world.\n\nBefore the player names him, Bartz is known as ?, or ??? in the Advance version.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/41d36a4f-aa27-4007-90b1-de5b756b8cca.jpg"
+    },
+    {
+      "id": 67,
+      "name": "Cid",
+      "job": "Engineer",
+      "origin": "Final Fantasy V",
+      "description": "Professor Cid Previa (シド・プリヴィア Shido Purivia) is a non-playable character in Final Fantasy V. Cid is an elderly inventor and scholar from Karnak who researches the Crystals. Together with his grandson, Mid, who researches at the Library of the Ancients, Cid is one of the foremost inventors in Bartz's World.\n\nMeeting Cid in the iOS version earns the player the \"Scientific Genius\" achievement.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/2aa0b02d-9db4-4408-995a-d4e3a9ebce5a.jpg"
+    },
+    {
+      "id": 68,
+      "name": "Dorgann",
+      "job": "Traveler",
+      "origin": "Final Fantasy V",
+      "description": "Dorgann Klauser (ドルガン・クラウザー Dorugan Kurauzā), also known as Drogan Klauser, is a character from Final Fantasy V. He is Bartz Klauser's father.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/6fd44f27-98f8-4a2f-90fb-b6b9cbece85f.jpg"
+    },
+    {
+      "id": 69,
+      "name": "Exdeath",
+      "job": "Warlock",
+      "height": "213cm",
+      "origin": "Final Fantasy V",
+      "description": "Exdeath (エクスデス Ekusudesu), also known as X-Death, ExDeath, Exodus, or Exodes in Final Fantasy: Legend of the Crystals, is the main antagonist of Final Fantasy V. According to Ghido, despite his knightly appearance, Exdeath was once, and still is to an extent, a tree from the Great Forest of Moore.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/27de5f9b-c1ac-493a-9c50-0907d00c4f8a.jpg"
+    },
+    {
+      "id": 70,
+      "name": "Faris",
+      "job": "Pirate Captain",
+      "origin": "Final Fantasy V",
+      "description": "Faris Scherwiz (ファリス・シェルヴィッツ Farisu Sheruvittsu), real name Sarisa Scherwil Tycoon (サリサ・シュヴィール・タイクーン Sarisa Shuvīru Taikūn), is a player character in Final Fantasy V. Faris is a pirate captain who travels with a pirate ship and its crew, accompanied by a sea-dragon named Syldra. The party first encounters Faris when they try to steal the pirate ship, which leads to their adventures as the Warriors of Light.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/c845359e-10ed-4ce1-a311-d7d038d6810c.jpg"
+    },
+    {
+      "id": 71,
+      "name": "Galuf",
+      "job": "Warrior",
+      "origin": "Final Fantasy V",
+      "description": "Galuf Halm Baldesion (ガラフ・ハルム・バルデシオン Garafu Harumu Barudeshion), also known as Galuf Doe, is a playable character in Final Fantasy V. He is the king of Castle of Bal and one of the four Warriors of Dawn.\n\nGaluf's full name is never spoken in the game, but the Final Fantasy 20th Anniversary Ultimania identifies him as Galuf Halm Baldesion. He is named Galuf Doe in the Final Fantasy V Advance manual, because Doe is a placeholder name. This may be because Galuf initially suffers from amnesia and doesn't recall his full name, as well as to conceal spoilers about his identity.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/ccd59c89-f0a1-4f8e-8b35-883aeb4a4a56.jpg"
+    },
+    {
+      "id": 72,
+      "name": "Gilgamesh",
+      "job": "Sword Collector",
+      "origin": "Final Fantasy V",
+      "description": "Gilgamesh (ギルガメッシュ, Girugamesshu) is a recurring character in the Final Fantasy series. Initially introduced as an antagonist, he has made a number of appearances in remakes and later titles. To date, Gilgamesh has had more appearances in any Final Fantasy media than any other character, and may be the only character to appear in more than one game in the main series (see below). Gilgamesh began a tradition of an incompetent, comical, yet persistent recurring boss for the player to face.\n\nGilgamesh's role has varied greatly from ally, to enemy, to summon, but for most of his appearances he is a traveling sword collector who battles with a variety of rare and powerful weapons. In most, if not all, of his appearances, Gilgamesh is searching for the legendary sword, Excalibur, but often ends up with the imitation known as Excalipoor. Another of Gilgamesh's trademarks is Genji equipment, which can be stolen from or dropped by him.\n\nOriginally voiced in Japan by Daisuke Gōri for the Japanese release of Final Fantasy XII before his death on January 17th, 2010, Gilgamesh's voice is provided by Kazuya Nakai as of Dissidia 012 Final Fantasy, by Riki Kitazawa in Final Fantasy XIV, by Kazuya Nakai once more in World of Final Fantasy, and by Kazuhiko Inoue in Final Fantasy XV. In the English versions, Gilgamesh is voiced by John DiMaggio in Final Fantasy XII, Keith Szarabajka in Dissidia 012 Final Fantasy and Final Fantasy Type-0 HD, Kurt Wilson in Final Fantasy XIV and Tom Taylorson in Final Fantasy XV.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/d5df2ae6-b16f-411e-a647-732d348cd0b4.jpg"
+    },
+    {
+      "id": 73,
+      "name": "Kelger",
+      "job": "Warrior",
+      "origin": "Final Fantasy V",
+      "description": "Kelger Vlondett (ケルガー・ヴロンデット Kerugā Vurondetto), originally romanized as Kelgar, and known as Kelga in the Anthology translation is a non-player character in Final Fantasy V. Kelger is a Warrior of Dawn.\n\nKelger is an anthropomorphic lupine, appearing closely to a typical depiction of a werewolf. In his official artwork and portrait by Yoshitaka Amano, his fur is in shades of grey, but his in-game sprite depicts him as having fur in a light shade of brown. He wears a gold headpiece with a protruding horn behind his ears. He wears a full-body armor and a yellow cape.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/fe9697d2-ef8c-44c5-a4d9-b2da2c06bbe5.jpg"
+    },
+    {
+      "id": 74,
+      "name": "Krile",
+      "job": "Princess",
+      "origin": "Final Fantasy V",
+      "description": "Krile Mayer Baldesion (クルル・マイア・バルデシオン Kururu Maia Barudeshion), also known Kururu, is a protagonist from Final Fantasy V. She is the granddaughter of Galuf Halm Baldesion and the princess of Bal Castle. She can talk to moogles and chocobos as well as tame and befriend wind drakes. She keeps a pet moogle in her room and a wind drake on her balcony. When she first appears, she is known as Girl.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/63dbd59c-ca8e-4ae4-8faf-3cd7707526f1.jpg"
+    },
+    {
+      "id": 75,
+      "name": "Lenna",
+      "job": "Princess/Queen",
+      "origin": "Final Fantasy V",
+      "description": "Lenna Charlotte Tycoon (レナ・シャルロット・タイクーン Rena Sharurotto Taikūn), also known as Reina, is a playable character in Final Fantasy V. Lenna is the daughter of King Tycoon and heir to the throne of Tycoon. She would gladly put herself at risk for the sake of others, and can be impulsive. She loves dragons and puts herself in danger to save the life of a wind drake while she is a Warrior of Light.\n\nLenna's direct descendant is Queen Lenna in Final Fantasy: Legend of the Crystals.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/beb54341-c179-4a9c-837e-ec5a75aae685.jpg"
+    },
+    {
+      "id": 76,
+      "name": "Xezat",
+      "japaneseName": "ゼザ・マティアス・サーゲイト",
+      "age": "58",
+      "job": "Warrior",
+      "origin": "Final Fantasy V",
+      "description": "Xezat Matias Surgate (ゼザ・マティアス・サーゲイト Zeza Matiasu Sāgeito), originally romanized as Zezae, and known as Zeza in the Anthology and unofficial RPGe translations, is a non-player character in Final Fantasy V. Xezat is one of the four Warriors of Dawn.\n\nXezat has blond hair. He also sports a beard and a mustache. In his official Yoshitaka Amano artwork, he wears a blue and white full body armor and has his sword sheathed by his left leg. His helmet features two horns. In his field sprite, his armor and helmet is mostly of the light shade of green.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/d5b378a3-7f33-4dbb-bae6-c9a2e5a1c23e.jpg"
+    },
+    {
+      "id": 77,
+      "name": "Banon",
+      "job": "Leader",
+      "origin": "Final Fantasy VI",
+      "description": "Banon (バナン Banan, lit. Bannan) is a temporary playable character in Final Fantasy VI. He is the leader of the Returners, a secret resistance movement formed against the Gestahlian Empire.\n\nYoshitaka Amano's artwork shows Banon with a mass of shaggy brown hair and a beard, wearing green clothing and a layered cape that is brown, green, and orange from outside to inside. He wears black pauldrons, red bracers, and a wide belt with a zebra-striped sash underneath. His boots are dark brown. His in-game sprite simplifies this look as well as recoloring his trousers red and his boots green.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/46f4a5ac-3dd6-466e-b140-e620acffe8bf.jpg"
+    },
+    {
+      "id": 78,
+      "name": "Celes",
+      "job": "Rune Knight",
+      "origin": "Final Fantasy VI",
+      "description": "General Celes Chere (セリス・シェール Serisu Shēru), also spelled as Celes Chère, is a playable character in Final Fantasy VI. A genetically enhanced Magitek Knight initially serving as a general of the Gestahlian Empire, she becomes disillusioned with the empire and turns her back on them to join the Returners. Celes is Locke Cole's love interest, and works as a foil to Terra Branford, their character development and abilities paralleling each other.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/d47b7b94-bd9f-4c95-ad56-b9663a79009e.jpg"
+    },
+    {
+      "id": 79,
+      "name": "Cid",
+      "job": "Engineer",
+      "origin": "Final Fantasy VI",
+      "description": "Cid Del Norte Marquez (シド・デル・ノルテ・マルケズ Shido Deru Norute Marukezu) is a non-player character from Final Fantasy VI. He is the chief genetic engineer of the Gestahlian Empire who invented the Magitek process. Born in the fifth year of the nation of Vector, Cid is a member of the Marquez bloodline of patriotic scientists of the northern state of which became Vector in the war of fifty years before the game's beginning. His Japanese surname is alternately spelled as Del Norte Marguez or Marguz. Aside from working in the Magitek Research Facility, Cid cultivated a veritable collection of exotic flowers in a greenhouse, his favorite being roses. As Celes Chere grew, she would help him in the greenhouse, where Cid named his favorite flower after her and eventually gave it to her to adorn her quarters.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/e122eccf-b22e-4663-9351-58c117261790.jpg"
+    },
+    {
+      "id": 80,
+      "name": "Cyan",
+      "job": "Swordsman",
+      "origin": "Final Fantasy VI",
+      "description": "Cyan Garamonde (カイエン・ガラモンド Kaien Garamondo, ''Cayenne Garamonde'' in the Japanese version) is a playable character in Final Fantasy VI. He is a Samurai and one of the finest and most noble soldiers of the kingdom of Doma. He is husband to Elayne, and father to Owain.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/ba36377f-f5f3-4446-a62f-409fe7588333.jpg"
+    },
+    {
+      "id": 81,
+      "name": "Edgar",
+      "job": "Machinist",
+      "origin": "Final Fantasy VI",
+      "description": "Edgar Roni Figaro (エドガー・ロニ・フィガロ Edogā Roni Figaro) is a playable character in Final Fantasy VI. He is the king of Figaro Castle and the older twin brother of Sabin Rene Figaro. He is a master engineer, which leads him to create odd and unusual weapons, mostly as a hobby. Edgar often redecorates his room and is flirtatious with women. Before his name is introduced, his dialogue is credited to King.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/f81977a6-91d3-4f41-8ffd-53dd3f440bec.jpg"
+    },
+    {
+      "id": 82,
+      "name": "Gau",
+      "job": "Feral youth",
+      "origin": "Final Fantasy VI",
+      "description": "Gau (ガウ) is a playable character in Final Fantasy VI. He is a feral child who grew up on the Veldt. Gau has the unique skill to leap into formations of monsters and learn their attack patterns. Gau is one of the few party members with no personal story tied to the central plot, and doesn't appear to have a reason to join the party beyond his attachment to Sabin and Cyan.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/aca31cdc-3433-4105-afa0-ff6fb72e7f50.jpg"
+    },
+    {
+      "id": 83,
+      "name": "Gestahl",
+      "job": "Emperor",
+      "origin": "Final Fantasy VI",
+      "description": "Emperor Gestahl (ガストラ Gasutora, Gastra) is the dictator of the Gestahlian Empire in Final Fantasy VI, and at first appears to be the game's primary antagonist.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/5f1638d1-8747-442a-8ecb-961be7bf3182.jpg"
+    },
+    {
+      "id": 84,
+      "name": "Gogo",
+      "job": "Mime",
+      "origin": "Final Fantasy VI",
+      "description": "Gogo (ゴゴ) is a playable character in Final Fantasy VI. They are an optional character, only found in the World of Ruin, and is a skilled mime.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/483b8a8a-00d3-4ac1-b29b-95fbf441e348.jpg"
+    },
+    {
+      "id": 85,
+      "name": "Kefka",
+      "job": "General",
+      "origin": "Final Fantasy VI",
+      "description": "Kefka Palazzo (ケフカ·パラッツォ Kefuka Parattso, Cefca Palazzo in ther Japanese version) is the main antagonist of Final Fantasy VI. The prototype to the Magitek Knights, Kefka acts as Emperor Gestahl's court mage carrying out his orders, but behind his back schemes for his own ends. While previous antagonists in the Final Fantasy series were distant, cold, ruthless, and bent on their goals, Kefka is loud, short-tempered, maniacal, and destructive. His popularity among Final Fantasy fans, at least outside Japan, as an antagonist is rivaled only by Sephiroth from Final Fantasy VII. Kefka is known for his many one-liners, his final almighty appearance (which has become something of a tradition in the series), as well as his sociopathic hatred of everything in existence. Kefka's defining character trait is his laughter, a high-pitched whooping cackle. In large part because of his dark humor and jester attire, Kefka was also given the nickname ''the psycho clown'' by fans, with this eventually becoming official with his CollectaCard description in Theatrhythm Final Fantasy.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/c32c7d8f-596b-4e33-8a5b-4df4e854a878.jpg"
+    },
+    {
+      "id": 86,
+      "name": "Leo",
+      "job": "General",
+      "origin": "Final Fantasy VI",
+      "description": "Leo Cristophe (レオ・クリストフ Reo Kurisutofu) is a temporary playable character in Final Fantasy VI. He is a noble and honorable man who fights for what he believes in. General Leo is the finest swordsman in the Gestahlian Empire, and one of Emperor Gestahl's most trusted men. He prefers negotiation over combat, in contrast to Kefka Palazzo.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/1275d6fc-4238-4f91-81f3-173c5fc10cec.jpg"
+    },
+    {
+      "id": 87,
+      "job": "Adventurer",
+      "origin": "Final Fantasy VI",
+      "description": "Locke Cole (ロック・コール Rokku Kōru, also romanized as ''Lock Cole'') is a playable character from Final Fantasy VI. He is a thief, but prefers to be called a treasure hunter. Locke is introduced as a contact, spy, and saboteur for the Returners, the resistance group to the Gestahlian Empire.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/0a04696b-5542-4e02-b297-a5d70225f04b.jpg"
+    },
+    {
+      "id": 88,
+      "name": "Maduin",
+      "job": "Esper",
+      "origin": "Final Fantasy VI",
+      "description": "Maduin (マディン Madin, lit. Mael Duin) is Terra's father, an esper, and temporary playable character in Final Fantasy VI. He is the guardian of the Esper World, overseeing the gateway between the esper realm and the realm of humans. The party acquires his magicite to learn spells from.\n\nMaduin is a humanoid esper with long sea-greenish-gray hair on his field sprite, though on his summon sprite it's grayish-violet. Both field and summon sprites depict him with his hair tied up in a ponytail, and tufts of fur the same color as his hair on his shoulders. He has a muscular figure, with his summon sprite depicts him with a grayish-tangelo skin tone, and his field sprite with light gamboge skin. His summon sprite shows him with clawed fingers and digigrade legs with long talons on his toes. Maduin wears a dark vermilion loincloth with an amber sash in his summon sprite, and wears a pendant he gives to Madeline when they meet. On his field sprite his eyes are moderate indigo. His summon sprite resembles that of the Gigas from Final Fantasy V, and may be a heavily modified Gigas sprite.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/1084901f-94f9-4990-9768-dcc1c5ffdf3b.jpg"
+    },
+    {
+      "id": 89,
+      "name": "Mog",
+      "job": "Dancer/Geomancer",
+      "origin": "Final Fantasy VI",
+      "description": "Mog (モグ Mogu) is a playable character in Final Fantasy VI. A moogle Dancer/Geomancer, he also acts as one of the game's tutorial presenters with Kappa the Imp, and is the character used to select a playable party during the scenario the team splits up. He lives deep in the Narshe Mines. Mog is fondly remembered as the first playable moogle in the Final Fantasy series, as well as the first moogle to speak human language, a discovery that shocks the party when he thanks them for saving him.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/cb81c823-efaa-4ea5-a34f-880fe156fb1b.jpg"
+    },
+    {
+      "id": 90,
+      "name": "Relm",
+      "job": "Pictomancer",
+      "origin": "Final Fantasy VI",
+      "description": "Relm Arrowny (リルム・アローニィ Rirumu Arōnii) is a playable character in Final Fantasy VI. She is a talented artist, and she can make her paintings come alive with magic. Scenes with Relm and Interceptor upon the party's first meeting further imply that she is Shadow's daughter, supporting flashbacks during Shadow's dream sequences. A relic special to Relm, the Memento Ring, directly references her departed mother – Shadow is the only other character capable of equipping this item.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/28a96e82-f65d-4974-8d45-0e653259261c.jpg"
+    },
+    {
+      "id": 91,
+      "name": "Sabin",
+      "job": "Monk",
+      "origin": "Final Fantasy VI",
+      "description": "Sabin René Figaro (マシアス『マッシュ』・レネ・フィガロ Mashiasu ''Masshu'' Rene Figaro, ''Macias Mash' Rene Figaro'' in the Japanese version) is a playable character from Final Fantasy VI. He is Edgar Roni Figaro's twin brother and thus an heir to the throne of Figaro Castle. He fled his kingdom in search of a quiet life free of corruption, and lived as a student of the martial arts. During the flashback when he is first seen, his dialogue is credited to Youth.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/4d658e93-bf13-47ae-8062-35206eec5138.jpg"
+    },
+    {
+      "id": 92,
+      "name": "Setzer",
+      "job": "Gambler",
+      "origin": "Final Fantasy VI",
+      "description": "Setzer Gabbiani (セッツァー・ギャッビアーニ Settsā Gyabbiāni) is a playable character in Final Fantasy VI. He is a Gambler who lives on the wild side and owns the world's only airship: the Blackjack. In the SNES version he is neutral at the beginning of the war, reluctant to openly oppose the Gestahlian Empire after having made profits from their work. In the GBA translation, which is more faithful to the original, he says the Empire has been bad for his business.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/a5e499bf-90cd-466b-ab43-d54718e2e812.jpg"
+    },
+    {
+      "id": 93,
+      "name": "Shadow",
+      "job": "Assassin",
+      "origin": "Final Fantasy VI",
+      "description": "Shadow (シャドウ Shadō), real name Clyde, is a playable character in Final Fantasy VI. He is a loner, an assassin and a mercenary, as his only friend is his dog, Interceptor. According to Edgar he is so cold he would ''kill his best friend for the right price.'' (or ''slit his mama's throat for a nickel'' in the original release) Shadow comes and goes as he pleases, as throughout the World of Balance he leaves the player's party at various points after battle without warning.\n\nIt is believed that Shadow is Relm's father.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/069ab1b9-d671-4874-8523-a49a9ea5207b.jpg"
+    },
+    {
+      "id": 94,
+      "name": "Strago",
+      "job": "Blue Mage",
+      "origin": "Final Fantasy VI",
+      "description": "Strago Magus (ストラゴス・マゴス Sutoragosu Magosu, ''Stragus Magus'' in the Japanese version) is a playable character in Final Fantasy VI. He is from the remote town of Thamasa, and lives with his adoptive granddaughter, Relm Arrowny. He is a Blue Mage, and is a Mage, one of the descendants of the humans who fought during the War of the Magi.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/4a077a2d-8c3a-4179-8100-cf0befe450bb.jpg"
+    },
+    {
+      "id": 95,
+      "name": "Terra",
+      "job": "Esper",
+      "origin": "Final Fantasy VI",
+      "description": "Terra Branford, (ティナ・ブランフォード Tina Buranfōdo, ''Tina'' in the Japanese version) is a playable character in Final Fantasy VI. Her unique abilities make her a key player in the war between the Gestahlian Empire and the rebel factions. Her gameplay name before the player names her is ??????, and her name in dialogue is Girl. Yoshinori Kitase has stated that Final Fantasy VI has no official main character, as the developers aimed to give the entire cast equal development and status without anyone standing above the rest. However, Terra features prominently in much of the game's artwork and is pivotal to its plot; she is present in the game's logo, the game's main theme is named after her, and she was chosen as the heroine to represent Final Fantasy VI in Dissidia Final Fantasy. She is often considered the game's central protagonist, which would make her the first female protagonist in the mainstream Final Fantasy series.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/2442245e-f645-4c8e-9af4-ae5dbdcc835c.jpg"
+    },
+    {
+      "id": 96,
+      "name": "Umaro",
+      "job": "Berserker",
+      "origin": "Final Fantasy VI",
+      "description": "Umaro (ウーマロ Ūmaro) is a playable character in Final Fantasy VI. He is a Yeti who lives deep in the Narshe Mines, uses primitive stone tools, and answers only to Mog. He is an optional character who can be recruited in the World of Ruin. He is capable of limited speech.",
+      "picture": "https://mooglestorage.blob.core.windows.net/images/f0a0086a-afe8-4563-a3fb-294555effc6f.jpg"
+    }
+  ],
+  "games": [
+    {
+      "gameId": 1,
+      "title": "Final Fantasy",
+      "picture": "https://jackfperryjr.github.io/moogleapi-images/logos/ff01.jpg",
+      "platform": "Nintendo NES",
+      "releaseDate": "December 18, 1987",
+      "description": "Final Fantasy takes place in an unnamed fantasy world with three large continents. The world's elemental powers are determined by the state of four glowing crystals, each governing one of the four classical elements: earth, fire, water, and wind."
+    },
+    {
+      "gameId": 2,
+      "title": "Final Fantasy II",
+      "picture": "https://jackfperryjr.github.io/moogleapi-images/logos/ff02.png",
+      "platform": "Nintendo NES",
+      "releaseDate": "December 17, 1988",
+      "description": "Final Fantasy II was the first game in the series to have an actual main cast of characters with names and histories. Firion, Maria, and Guy are always in the party while the fourth character changes throughout the story."
+    },
+    {
+      "gameId": 3,
+      "title": "Final Fantasy III",
+      "picture": "https://jackfperryjr.github.io/moogleapi-images/logos/ff03.png",
+      "platform": "Nintendo NES",
+      "releaseDate": "April 27, 1990",
+      "description": "The story revolves around four Warriors of Light who begin as Onion Knights in the original release, although they are named Luneth, Arc, Refia and Ingus in the 3D remake. When they find the Wind Crystal, it grants them its power, and instructs them to restore balance to the world."
+    },
+    {
+      "gameId": 4,
+      "title": "Final Fantasy IV",
+      "picture": "https://jackfperryjr.github.io/moogleapi-images/logos/ff04.png",
+      "platform": "Nintendo SNES",
+      "releaseDate": "July 19, 1991",
+      "description": "The game takes place in a medieval fantasy setting, and focuses on Cecil Harvey, the captain of the Red Wings of Baron. After performing a raid on Mysidia to steal the Water Crystal, Cecil and the knights question the orders of their king as they believed stealing from the Mysidians was wrong."
+    },
+    {
+      "gameId": 5,
+      "title": "Final Fantasy V",
+      "picture": "https://jackfperryjr.github.io/moogleapi-images/logos/ff05.png",
+      "platform": "Nintendo SNES",
+      "releaseDate": "December 6, 1992",
+      "description": "The game takes place in a medieval fantasy setting, and centers on a group of four strangers brought together by circumstance to save the Crystals that have mysteriously begun shattering. The one behind the phenomenon is the antagonist Exdeath, as part of a plan to release himself from imprisonment and gain the power of the Void which could bestow absolute power on one able to resist being absorbed by it."
+    },
+    {
+      "gameId": 6,
+      "title": "Final Fantasy VI",
+      "picture": "https://jackfperryjr.github.io/moogleapi-images/logos/ff06.jpg",
+      "platform": "Nintendo SNES",
+      "releaseDate": "April 2, 1994",
+      "description": "Final Fantasy VI focuses on a conflict between the Gestahlian Empire conquering the world and a rebel faction opposed to them known as the Returners, taking place in a fantasy steampunk-style world. The Empire has acquired great power by experimenting on captured espers, magical creatures of legend. "
+    },
+    {
+      "gameId": 7,
+      "title": "Final Fantasy VII",
+      "picture": "https://jackfperryjr.github.io/moogleapi-images/logos/ff07.jpg",
+      "platform": "Sony Playstation",
+      "releaseDate": "January 31, 1997",
+      "description": "Final Fantasy VII follows the story of mercenary Cloud Strife, who is hired by the eco-terrorist group AVALANCHE—led by Barret Wallace—to help fight the mega-corporation Shinra Electric Power Company, who attempts to drain the planet's lifeblood as an energy source to further their profits. Apathetic to the cause, Cloud initially fights for personal gain, and for the promise he made to childhood friend Tifa Lockhart. "
+    },
+    {
+      "gameId": 8,
+      "title": "Final Fantasy VIII",
+      "picture": "https://jackfperryjr.github.io/moogleapi-images/logos/ff08.jpg",
+      "platform": "Sony Playstation",
+      "releaseDate": "February 11, 1999",
+      "description": "Final Fantasy VIII is set on a fantasy world with science fiction elements, and focuses on Squall Leonhart, a young SeeD mercenary hired out to various missions by Balamb Garden. Squall and his friends are enlisted to help a group known as the Forest Owls led by Rinoa Heartilly, an endeavor that escalates into a conflict against the forces led by Sorceress Edea."
+    },
+    {
+      "gameId": 9,
+      "title": "Final Fantasy IX",
+      "picture": "https://jackfperryjr.github.io/moogleapi-images/logos/ff09.png",
+      "platform": "Sony Playstation",
+      "releaseDate": "July 7, 2000",
+      "description": "Taking place on planet Gaia, the story follows a thief named Zidane Tribal, a member of a thief troupe who is tasked to kidnap the princess of Alexandria, Garnet Til Alexandros XVII. He teams up with her and a team of allies to stop Queen Brahne and her ally Kuja from waging war with an army of black mages."
+    },
+    {
+      "gameId": 10,
+      "title": "Final Fantasy X",
+      "picture": "https://jackfperryjr.github.io/moogleapi-images/logos/ff10.jpg",
+      "platform": "Sony Playstation 2",
+      "releaseDate": "July 19, 2001",
+      "description": "The game is set in the world of Spira and follows the story of Tidus and Yuna. Tidus is a star athlete blitzball player, who is taken to Spira by Auron after a monster called Sin destroys his home city of Zanarkand. Tidus then joins the summoner, Yuna on her pilgrimage with her guardians to defeat Sin and bring about the Calm."
+    },
+    {
+      "gameId": 11,
+      "title": "Final Fantasy XII",
+      "picture": "https://jackfperryjr.github.io/moogleapi-images/logos/ff12.jpg",
+      "platform": "Sony Playstation 2",
+      "releaseDate": "March 16, 2006",
+      "description": "The game is set in the continent of Ivalice, in which the Archadian and Rozarrian Empires wage an endless war for power, and Dalmasca has been caught between the two and annexed by Archadia. Dalmasca's princess, Ashelia B'nargin Dalmasca, has created a resistance movement against Archadia to avenge her fallen kingdom, and along the way is united with a band of allies to seek a power capable of defeating the Archadian Empire."
+    },
+    {
+      "gameId": 12,
+      "title": "Final Fantasy XIII",
+      "picture": "https://jackfperryjr.github.io/moogleapi-images/logos/ff13.jpg",
+      "platform": "Sony Playstation 3",
+      "releaseDate": "December 19, 2009",
+      "description": "Final Fantasy XIII is set on the world of Gran Pulse, above which floats Cocoon, an artificial biodome on which humanity lives, fearful of the surface world. Lightning, a member of the Guardian Corps military forces, goes rogue when her sister Serah is branded a l'Cie by a fal'Cie from Gran Pulse, designating her an enemy of Cocoon. The Sanctum government authorizes a Purge of citizens who may have come in contact with the fal'Cie, and Lightning meets up with the pilot Sazh Katzroy on her way to find Serah amid the Purge."
+    },
+    {
+      "gameId": 13,
+      "title": "Final Fantasy XV",
+      "picture": "https://jackfperryjr.github.io/moogleapi-images/logos/ff15.png",
+      "platform": "Sony Playstation 4",
+      "releaseDate": "November 29, 2016",
+      "description": "he story is told over the course of 15 chapters. It focuses on Noctis Lucis Caelum, a prince from the kingdom of Lucis who fights to reclaim his throne and must go on to fulfill a greater destiny. Final Fantasy XV aims to examine its characters' humanity and place them in a more realistic setting than most Final Fantasy games. Its prominent themes are friendship, destiny, and legacy."
+    }
+  ]
+}
